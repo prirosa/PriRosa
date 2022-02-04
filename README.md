@@ -1,8 +1,13 @@
-### Olá! Eu sou a Priscila Rosa
+<div align="center">
+  <h1>Olá! Eu sou a <a href="https://www.linkedin.com/in/priscilarosa-front-end/" target="_blank"> Priscila Rosa </a> </h1>
+<img src="https://user-images.githubusercontent.com/65368658/152503239-7bfacfe8-9ea7-47fb-8355-817bcf7e4a5b.jpeg" alt="Pri-pic" height="150" border-radius="50%" margin-right: "15px">
+  
+  <p></p>
 
-- 🔭 Atualmente estou a procura de um estágio na área de Front-end
-- 🌱 Eu estou estudando na 4ª fase de Anáise e Desenvolvimento de Sistemas
-- 😄 Pronouns: ela/dela
+<p>🔭 Atualmente estou a procura de um estágio na área de Front-end</p>
+<p>🌱 Eu estou estudando na 4ª fase de Anáise e Desenvolvimento de Sistemas</p>
+  <p>😄 Pronouns: ela/dela</p>
+    </div>
 <br>
 <div align="center">
   <a href="https://github.com/prirosa">
@@ -22,13 +27,15 @@
   
   ##
   
- <div style="display: flex" align="center"><br>
+ <div align="center"><br>
    
- <a href="https://www.linkedin.com/in/priscilarosa-front-end/" target="_blank"><img align="center" alt="Pri-linkedin" height="15%" width="15%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-   <a href="https://www.instagram.com/aprioficial/" target="_blank"><img align="center" alt="Pri-instagram" height="15%" width="15%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-   <a href = "mailto:contatoapriscilasrosa@gmail.com"><img align="center" alt="Pri-email" height="5%" width="15%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
-
-
+ <a href="https://www.linkedin.com/in/priscilarosa-front-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Pri-linkedin" height="60" width="130" ></a>
+ <a href="https://www.instagram.com/aprioficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style =for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Pri-instagram"  height="60" width="130" ></a>
+   <a href = "mailto:apriscilasrosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white " target="_blank" alt="Pri-email"  height="60" width="130" ></a>
   </div>
+    
+ <div align="center">
+  
+  ![Animação de cobra](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
