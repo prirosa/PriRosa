@@ -6,7 +6,7 @@
 
 <p>🔭 Atualmente estou a procura de um estágio na área de Front-end</p>
 <p>🌱 Eu estou estudando na 4ª fase de Anáise e Desenvolvimento de Sistemas</p>
-  <p>😄 Pronouns: ela/dela</p>
+  <p>😄 Pronomes: ela/dela</p>
     </div>
 <br>
 <div align="center">
@@ -29,9 +29,9 @@
   
  <div align="center"><br>
    
- <a href="https://www.linkedin.com/in/priscilarosa-front-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Pri-linkedin" height="60" width="130" ></a>
- <a href="https://www.instagram.com/aprioficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style =for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Pri-instagram"  height="60" width="130" ></a>
-   <a href = "mailto:apriscilasrosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white " target="_blank" alt="Pri-email"  height="60" width="130" ></a>
+ <a href="https://www.linkedin.com/in/priscilarosa-front-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Pri-linkedin" height="50" width="130" ></a>
+ <a href="https://www.instagram.com/aprioficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style =for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Pri-instagram"  height="50" width="130" ></a>
+   <a href = "mailto:apriscilasrosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white " target="_blank" alt="Pri-email"  height="50" width="130" ></a>
   </div>
     
  <div align="center">
