@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá! Eu sou a <a href="https://www.linkedin.com/in/priscilarosa-front-end/" target="_blank"> Priscila Rosa </a> 🎱</h1>
-<img src="https://user-images.githubusercontent.com/65368658/152503239-7bfacfe8-9ea7-47fb-8355-817bcf7e4a5b.jpeg" alt="Pri-pic" height="150" border-radius="50%" margin-right: "15px">
+<img align= "radius"src="https://user-images.githubusercontent.com/65368658/152503239-7bfacfe8-9ea7-47fb-8355-817bcf7e4a5b.jpeg" alt="Pri-pic" height="150" width="150" border="50" /></a>
   
   <p></p>
 
