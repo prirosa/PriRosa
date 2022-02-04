@@ -39,3 +39,8 @@
   ![Animação de cobra](https://github.com/prirosa/prirosa/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+    
+<div align="center">
+  <p>Feito com 💖 e JavaScript.</p>
+  <p><del><b>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</del></a></b></p>
+</div>
