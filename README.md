@@ -4,8 +4,8 @@
   
   <p></p>
 
-<p>🔭 Atualmente estou a procura de um estágio na área de Front-end</p>
-<p>🌱 Eu estou estudando na 4ª fase de Anáise e Desenvolvimento de Sistemas</p>
+<p>🔭 Atualmente estou a procura de uma oportunidade na área de Web Developer</p>
+<p>🌱 Eu estou fazendo Pós Graduação em Desenvolvimento em Aplicações Web e já sou graduada em Anáise e Desenvolvimento de Sistemas</p>
   <p>😄 Pronomes: ela/dela</p>
     </div>
 <br>
